@@ -2,7 +2,7 @@
 
 <br>
 
-<center><img align="center" width="400px" src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/logo.png"></center>
+<center><div width="400px" align="center"><img align="center" width="400px" src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/logo.png"></div></center>
 
 <br>
 
