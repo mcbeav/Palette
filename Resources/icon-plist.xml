@@ -1,0 +1,16 @@
+<!-- Add To PLIST For Working File Icon Association With Application -->
+<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>palette</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>File.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Palette Data File</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+		</dict>
+	</array>
