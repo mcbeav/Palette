@@ -10,7 +10,15 @@
 
 <br>
 
-<center><img align="center" src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/main-menu.gif"></center>
+<center>
+
+<div width="506px" align="center">
+
+<img align="center" src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/main-menu.gif">
+
+</div>
+
+</center>
 
 <br>
 
@@ -76,17 +84,21 @@
 
 <br>
 
-| ![Setup](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/setup.png) | 
+<p>The application will ask if you want Palette to handle where the files will be stored or if you want to choose the location where your palette data is stored.</p>
+
+<br>
+
+<center>
+
+<div width="506px" align="center">
+
+| ![Setup](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/setup.gif) | 
 |:--:| 
 | <i>Palette Setup</i> |
 
-<br><br>
+</div>
 
-<p>The application will ask if you want Palette to handle where the files will be stored or if you want to choose the location where your palette data is stored.</p>
-
-| ![Directory](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/local-storage.png) | 
-|:--:| 
-| <i>Palette Can Manage Where Your Files Are Stored Or You Can Specify A Location</i> |
+</center>
 
 <br><br>
 
@@ -102,9 +114,17 @@
 
 <br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Backup](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/backup.gif) | 
 |:--:| 
 | <i>Backup ColorSnapper Data</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -118,19 +138,21 @@
 
 <p>Displays a dated list of backups that have been created using the Backup ColorSnapper Data option and allows you to restore data from a chosen specific date.</p>
 
-| ![Restore List](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/restore-list.png) | 
-|:--:| 
-| <i>Displays A List Of Available Backups</i> |
-
-<br><br>
+<br>
 
 <p>Once a date is selected, any notes stored in the file will be displayed, and you will confirm if this is the backup you would like to restore. When the action is confirmed the data in ColorSnapper is cleared and then the data from the backup is written to ColorSnapper.</p>
 
-<br>
+<center>
 
-| ![Restore](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/restore.gif) | 
+<div width="506px" align="center">
+
+| ![Restore List](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/restore.gif) | 
 |:--:| 
-| <i>Restore ColorSnapper Data</i> |
+| <i>Displays A List Of Available Backups</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -146,9 +168,17 @@
 
 <br>
 
-| ![Clear](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/clear.png) | 
+<center>
+
+<div width="506px" align="center">
+
+| ![Clear](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/clear.gif) | 
 |:--:| 
 | <i>Clear ColorSnapper Data</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -168,9 +198,17 @@
 
 <br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Save Color Palette](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/save-palette.gif) | 
 |:--:| 
 | <i>Save Color Palette</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -194,9 +232,17 @@
 
 <br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Load Color Palette](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/load-palette.gif) | 
 |:--:| 
 | <i>Load Color Palette</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -208,9 +254,17 @@
 
 <br><br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Example](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-before.png) | 
 |:--:| 
 | <i>ColorSnapper Save Palette</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -220,9 +274,17 @@
 
 <p>Loading the palette using the <i>Load Color Palette</i> the color data in ColorSnapper is replaced with the 5 colors marked as <i>favorites</i> in the previous photo</p>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Example](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-after.png) | 
 |:--:| 
 | <i>ColorSnapper After The Palette File Has Been Loaded</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -237,9 +299,17 @@
 
 <p>Displays a list of your saved palette files.</p>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/preview-list.png) | 
 |:--:| 
 | <i>Preview A Palette File</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -249,9 +319,17 @@
 
 <br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/preview-svg.png) | 
 |:--:| 
 | <i>SVG Preview View</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
@@ -267,9 +345,17 @@
 
 <br><br>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Manage Palettes](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/manage.png) | 
 |:--:| 
 | <i>Manage Palette Data</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
