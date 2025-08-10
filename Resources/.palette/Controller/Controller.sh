@@ -1532,7 +1532,7 @@ function icon_apply() {
         _icon=$(icon_random);
     fi
     cd "${LOCATION}/Resources/.palette/Apps";
-    local _apply=$(./SetFileIcon -image "${LOCATION}/Resources/Icons/${_icon}.icns" -file "${LOCATION}/Data/${_option}/${_file}.palette" 2> /dev/null);
+    local _apply=$(./fileicon.sh set "${LOCATION}/Resources/Icons/ICNS/${_icon}.icns" -file "${LOCATION}/Data/${_option}/${_file}.palette" 2> /dev/null);
 }
 #   ##: @End Icons }
 
