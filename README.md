@@ -54,9 +54,17 @@
 
 <p>Upon first launch, you'll be shown a short introduction on the purpose of the Palette application.</p>
 
+<center>
+
+<div width="506px" align="center">
+
 | ![Introduction](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/introduction.gif) | 
 |:--:| 
 | <i>Palette Introduction</i> |
+
+</div>
+
+</center>
 
 <br><br>
 
