@@ -130,7 +130,11 @@
 
 <div width="506px" align="center">
 
-| ![Palette Files](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png) | 
+<!-- | ![Palette Files](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png) | 
+|:--:| 
+| <i>Saved Palette Files</i> | -->
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png" width="506px" alt="Palette Files"> | 
 |:--:| 
 | <i>Saved Palette Files</i> |
 
