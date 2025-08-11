@@ -130,10 +130,6 @@
 
 <div width="506px" align="center">
 
-<!-- | ![Palette Files](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png) | 
-|:--:| 
-| <i>Saved Palette Files</i> | -->
-
 | <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png" width="506px" alt="Palette Files"> | 
 |:--:| 
 | <i>Saved Palette Files</i> |
@@ -274,7 +270,7 @@
 
 <div width="506px" align="center">
 
-| ![Example](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-before.png) | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-before.png" width="506px" alt="Example"> | 
 |:--:| 
 | <i>ColorSnapper Save Palette</i> |
 
@@ -294,7 +290,7 @@
 
 <div width="506px" align="center">
 
-| ![Example](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-after.png) | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/example-after.png" width="506px" alt="Example"> | 
 |:--:| 
 | <i>ColorSnapper After The Palette File Has Been Loaded</i> |
 
