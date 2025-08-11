@@ -44,8 +44,6 @@
 
 <p>Useful for backing up ColorSnapper2 data from multiple computers</p>
 
-<p>Restoring data will combine the data currently loaded into ColorSnapper with the backed up data & will remove any duplicate colors</p>
-
 <br><br>
 
 <h3 align="right">Save & Load Color Palettes</h3>
@@ -121,6 +119,20 @@
 | ![Backup](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/backup.gif) | 
 |:--:| 
 | <i>Backup ColorSnapper Data</i> |
+
+</div>
+
+</center>
+
+<br><br>
+
+<center>
+
+<div width="506px" align="center">
+
+| ![Palette Files](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/icons.png) | 
+|:--:| 
+| <i>Saved Palette Files</i> |
 
 </div>
 
@@ -303,7 +315,7 @@
 
 <div width="506px" align="center">
 
-| ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/preview-list.png) | 
+| ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/preview.gif) | 
 |:--:| 
 | <i>Preview A Palette File</i> |
 
@@ -323,9 +335,9 @@
 
 <div width="506px" align="center">
 
-| ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/preview-svg.png) | 
+| ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/svg.gif) | 
 |:--:| 
-| <i>SVG Preview View</i> |
+| <i>SVG Generated Preview</i> |
 
 </div>
 
@@ -349,7 +361,7 @@
 
 <div width="506px" align="center">
 
-| ![Manage Palettes](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/manage.png) | 
+| ![Manage Palettes](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/manage.gif) | 
 |:--:| 
 | <i>Manage Palette Data</i> |
 

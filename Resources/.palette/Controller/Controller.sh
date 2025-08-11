@@ -1863,7 +1863,7 @@ function data_load {
             read -s -e -n 1 _key 2>/dev/null >&2;
             _key=$(echo "${_key}" | tr '[:upper:]' '[:lower:]');
             if [[ "${_key}" = "y" ]]; then
-                data_write "Palettes" "${_file// }";
+                data_write "${_file// }" "Palettes";
                 main_menu "The Palette ${_file// } Has Been Loaded Into ColorSnapper";
             elif [[ "${_key}" = "n" ]]; then
                 main_menu;
@@ -2345,14 +2345,12 @@ function data_format() {
             if [[ "${#_data}" -lt 9 ]]; then
                 _data=$(echo -e "\t${_data}");
             else
-                cd ~/Downloads/debug;
                 IFS=${IFSC};
                 # Replace Any Commas With Newlines In The Data
                 # _data="${_data//,/\n}";
                 _data="${_data//,/ }";
                 # Each Color Should Now Be On It's Own New Line, So Putting The Color Data Into the _colors Array Will Result In The _colors Array Being Populated With Each Color As An Array Element
                 local _colors=(${_data});
-                echo "${_colors[1]}" > "debug.txt";
                 # Set The _data String To The First Array Element (Color) In The _colors Array
                 _data=$(echo -e "\t${_colors[0]}");
                 # Loop Through The _color Array Starting From The 2nd Element Since The First Element Was Already Added To The Data String
@@ -2415,11 +2413,7 @@ function data_save() {
         _history=$(defaults read com.koolesache.ColorSnapper2 HistoryColors);
         _history=$(data_format "${_history}" "File");
         _file="======T:B======\n${_history}"
-        # if [[ ! -z "${_favorites// }" ]]; then 
         _file="${_file}\n${_favorites}";
-        # else
-            # _file="${_file}\n======C:0======\n0";
-        # fi
         if [[ ! -z "${_note// }" ]]; then 
             _file="${_file}\n======N:${#_note}======\n${_note}";
         else
@@ -2427,7 +2421,7 @@ function data_save() {
         fi
     fi
     echo -e "${_file}" > "${_filename}.palette";
-    sleep 0.5s;
+    sleep 1s;
     icon_apply "${_option}" "${_filename}";
     loading 2;
 }
