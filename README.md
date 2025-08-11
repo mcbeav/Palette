@@ -48,6 +48,20 @@
 
 <h3 align="right">Save & Load Color Palettes</h3>
 
+<p>Save groups of colors for individual projects & restore them when needed</p>
+
+<br><br>
+
+<h3 align="right">Clear ColorSnapper</h3>
+
+<p>Clear the data stored in ColorSnapper & start fresh</p>
+
+<br><br>
+
+<h3 align="right">Merge ColorSnapper Data From Multiple Computers</h3>
+
+<p>Take your colors with you between computers if you're working on projects across different machines.</p>
+
 <br><br>
 
 <h2>Launching Palette</h2>
@@ -373,7 +387,7 @@
 
 <h4 align="center">Sync ColorSnapper</h4>
 
-<p>Sync ColorSnapper combines the data that is currently in ColorSnapper2 with your most current backup created. This option only works if you setup to store your palette data using cloud storage, or a combination of both local and cloud storage.</p>
+<p><i>Sync ColorSnapper</i> combines the data that is currently in ColorSnapper2 with your most current backup created. This option only works if you setup to store your palette data using cloud storage, or a combination of both local and cloud storage.</p>
 
 <p>This option is meant to sync ColorSnapper data across computers if you use ColorSnapper & develop across computers.</p>
 
@@ -383,9 +397,9 @@
 
 <h4 align="center">Combine Files</h4>
 
-<p>Combine Files combines the colors loaded into ColorSnapper with the palette file you select removing any duplicate colors in the process.</p>
+<p><i>Combine Files</i> combines the colors loaded into ColorSnapper with the palette file you select removing any duplicate colors in the process.</p>
 
-<p>When loading a palette file using the normal Load Palette, the color data will first be cleared from ColorSnapper. Using the Combine Files menu option will keep the color data in ColorSnapper & load the colors saved in a palette file.</p>
+<p>When loading a palette file using the normal Load Palette, the color data will first be cleared from ColorSnapper. Using the <i>Combine Files</i> menu option will keep the color data in ColorSnapper & load the colors saved in a palette file.</p>
 
 <br>
 
@@ -435,6 +449,22 @@
 
 <p>A help menu that displays the documentation for the application</p>
 
+<br>
+
+<center>
+
+<div width="506px" align="center">
+
+| ![Help Menu](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/help.gif) | 
+|:--:| 
+| <i>Help Menu / Documentation</i> |
+
+</div>
+
+</center>
+
+<br><br>
+
 <br><br>
 
 <hr>
@@ -454,6 +484,6 @@
 <br><br><br><br>
 
 
-<center><sub><a href="#top">back to top</a></sub></center>
+<font align="right"><sub><a href="#top">back to top</a></sub></font>
 
-
+<br><br><br><br>
