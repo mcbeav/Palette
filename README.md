@@ -335,7 +335,7 @@
 
 <div width="506px" align="center">
 
-| ![Preview](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/svg.gif) | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/palette/svg.gif" width="506px" alt="SVG generated Preview"> | 
 |:--:| 
 | <i>SVG Generated Preview</i> |
 
